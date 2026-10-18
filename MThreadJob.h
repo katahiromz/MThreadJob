@@ -1,4 +1,4 @@
-﻿// MThreadJob.h --- スレッド ジョブ。
+﻿// MThreadJob.h --- スレッド マネージャ。
 // Author: katahiromz
 // License: MIT
 #pragma once

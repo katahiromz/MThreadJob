@@ -1,4 +1,4 @@
-﻿// MThreadJob_test.cpp --- スレッド ジョブの単体テスト。
+﻿// MThreadJob_test.cpp --- スレッド  マネージャの単体テスト。
 // Author: katahiromz
 // License: MIT
 
